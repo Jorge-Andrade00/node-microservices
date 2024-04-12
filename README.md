@@ -1,3 +1,4 @@
+![Logo](https://nestjs.com/img/logo_text.svg)
 # Node Microservices
 
 This project is a microservices architecture designed for sending notifications via Kafka and consumed by a Node.js microservice for sending emails.
